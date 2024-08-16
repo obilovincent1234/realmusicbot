@@ -3,4 +3,4 @@ pyradios
 pyTelegramBotAPI
 ytmusicapi
 yt_dlp
-nano ~/.config/realmusicbot.ini
+git+https://github.com/raitonoberu/realmusicbot.git#egg=realmusicbot
